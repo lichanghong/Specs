@@ -1,5 +1,7 @@
 # The CocoaPods Master Repo
 
+edit by lichnaghong for test
+
 This repository contains the public [CocoaPods](https://github.com/CocoaPods/CocoaPods) specifications.
 
 ## Links
